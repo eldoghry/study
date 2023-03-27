@@ -1,3 +1,9 @@
+/**
+ * Chain of Responsibility Pattern one of Behavioral Design Patterns
+ * Idea: pass request to chain of handlers each handler decide either to process the request or pass it to the next handler
+ *
+ */
+
 enum RequestType {
   CONFERENCE = "CONFERENCE",
   PURCHASE = "PURCHASE",
