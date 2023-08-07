@@ -162,6 +162,7 @@ class Person {
   }
 }
 
+// builder of many builders
 class PersonBuilder {
   person: Person;
 

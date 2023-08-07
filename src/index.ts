@@ -7,4 +7,5 @@
 
 // import './design_pattern/creational/builder/builder1.ts'
 
-import "./design_pattern/creational/abstract_factory/example1/client.ts";
+// import "./design_pattern/creational/abstract_factory/example1/client.ts";
+import "./design_pattern/creational/abstract_factory/example2/ui2.ts";
