@@ -11,7 +11,6 @@ company need to add different size (small, medium, large)
 
   abstract class Beverage {
     size: BeverageSize = BeverageSize.SMALL;
-
     abstract description: string;
     abstract cost(): number;
 

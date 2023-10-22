@@ -10,4 +10,9 @@
 // import "./design_pattern/creational/abstract_factory/example1/client.ts";
 // import "./design_pattern/creational/abstract_factory/example2/ui2.ts";
 // import "./design_pattern/structural/adaptor/adaptor1.ts";
-import "./design_pattern/structural/adaptor/adaptor2.ts";
+// import "./design_pattern/structural/adaptor/adaptor2.ts";
+// import "./design_pattern/structural/proxy/proxy.ts";
+// import "./design_pattern/structural/proxy/proxy2.ts";
+// import "./design_pattern/structural/decorator/decorator5.ts";
+// import "./design_pattern/structural/decorator/decorator6.ts";
+import "./design_pattern/behavioral/strategy/strategy3.ts";
