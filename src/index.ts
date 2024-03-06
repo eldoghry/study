@@ -1,7 +1,7 @@
-// import './algorithms/binarySearch.js'
+import "./algorithms/binarySearch.ts";
 // import './algorithms/sort/bubbleSort.js'
 // import './algorithms/sort/insertionSort.js'
-import "./algorithms/sort/quickSort.ts";
+// import "./algorithms/sort/quickSort.ts";
 // import './algorithms/sort/mergeSort.js'
 // import './misc/towerOfHonai.js'
 
