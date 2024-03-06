@@ -20,5 +20,5 @@
 // import "./data_structure/ds/CirculerQueue.ts";
 // import "./leetCode/arrays/twoSumsEnhanced.ts";
 // import "./leetCode/string/find1stOccurance.ts";
-import "./leetCode/arrays/283.MoveZeroes.ts";
+// import "./leetCode/arrays/283.MoveZeroes.ts";
 // import "./leetCode/string/findAllAnagramsInAString.ts";
