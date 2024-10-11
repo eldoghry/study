@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "nodemon ./src/index.ts",
-    "dev": "ts-node --esm ./src/index.ts"
+    "dev": "node --loader ts-node/esm src/index.ts --experimental-loader"
   },
   "eslintConfig": {
     "extends": [
