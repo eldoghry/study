@@ -16,12 +16,14 @@ import './design_pattern/creational/factory/notification.ts'
 // import "./design_pattern/structural/proxy/proxy2.ts";
 // import "./design_pattern/structural/decorator/decorator5.ts";
 // import "./design_pattern/structural/decorator/decorator6.ts";
-// import './design_pattern/behavioral/strategy/strategy3.ts'
+// import "./design_pattern/behavioral/strategy/strategy3.ts";
+// import "./design_pattern/behavioral/command/example5.ts";
+import './design_pattern/behavioral/momento/example2.ts'
 
 // import "./data_structure/ds/CirculerQueue.ts";
-// import "./leetCode/arrays/twoSumsEnhanced.ts";
+// import "./leetCode/arrays/27.RemoveElement.ts";
 // import "./leetCode/string/find1stOccurance.ts";
-// import "./leetCode/arrays/283.MoveZeroes.ts";
+// import "./leetCode/string/567.PermutationInString.ts";
 // import "./leetCode/string/findAllAnagramsInAString.ts";
 
 // Example 1:
